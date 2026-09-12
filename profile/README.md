@@ -82,10 +82,13 @@
 - **Description:** OMT(OpenMediaTransport)のRust実装
 
 **[StreamDeckPluginSharp](https://github.com/MikanseiLaboratory/StreamDeckPluginSharp)**  
-- **Description:** StreamDeckプラグインのWebSocket接続やPropertyInspectorの同期を自動的に行うC# SDK
+- **Description:** StreamDeckプラグインのWebSocket接続やPropertyInspectorの同期を自動的に行うC# SDK [NuGet](https://www.nuget.org/packages/StreamDeckPluginSharp)
 
 **[StreamDeckPluginRust](https://github.com/MikanseiLaboratory/StreamDeckPluginRust)**  
-- **Description:** StreamDeckプラグインのWebSocket接続やPropertyInspectorの同期を自動的に行うRust SDK
+- **Description:** StreamDeckプラグインのWebSocket接続やPropertyInspectorの同期を自動的に行うRust SDK [crates.io](https://crates.io/crates/streamdeck-plugin)
+
+**[streamdeck-pi-client](https://github.com/MikanseiLaboratory/streamdeck-pi-client)**  
+- **Description:** StreamDeckプラグインのPropertyInspectorをReact hooksで自動的に同期するnpmパッケージ [npmjs.com](https://www.npmjs.com/package/@mikanseilaboratory/streamdeck-pi-client)
 
 ---
 
