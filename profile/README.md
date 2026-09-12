@@ -46,7 +46,7 @@
 **[vmix-utility](https://github.com/MikanseiLaboratory/vmix-utility/)**  
 - **Description:** vMix管理・オペレーションサポートアプリ。 StreamDeckのボタン用URL生成、Blankの自動生成など。
 
-**[omt-tools](https://github.com/MikanseiLaboratory/omt-tools/)**  
+**[omt-community-tools](https://github.com/MikanseiLaboratory/omt-community-tools/)**  
 - **Description:** OpenMediaTransport(OMT) オペレーションサポートアプリ。スタジオモニター、テスト信号送出ソフトウェアなど。
 
 **[omt-obs-plugin](https://github.com/MikanseiLaboratory/omt-obs-plugin/)**  
@@ -63,6 +63,23 @@
 
 **[openfx-network-video-plugin](https://github.com/MikanseiLaboratory/openfx-network-video-plugin/)**  
 - **Description:** DaVinci Resolve向けOpenFX NDI送出フィルタープラグイン。
+
+#### Libraries
+
+**[vmix-rs](https://github.com/MikanseiLaboratory/vmix-rs/)**  
+- **Description:** vMix APIとの通信を抽象化するRustクレート
+
+**[vmx-rs](https://github.com/MikanseiLaboratory/vmx-rs/)**  
+- **Description:** vMixで扱われるVMX1コーデックのRust実装。wgpu対応
+
+**[openmediatransport-rs](https://github.com/MikanseiLaboratory/openmediatransport-rs)**  
+- **Description:** OMT(OpenMediaTransport)のRust実装
+
+**[StreamDeckPluginSharp](https://github.com/MikanseiLaboratory/StreamDeckPluginSharp)**  
+- **Description:** StreamDeckプラグインのWebSocket接続やPropertyInspectorの同期を自動的に行うC# SDK
+
+**[StreamDeckPluginRust](https://github.com/MikanseiLaboratory/StreamDeckPluginRust)**  
+- **Description:** StreamDeckプラグインのWebSocket接続やPropertyInspectorの同期を自動的に行うRust SDK
 
 ---
 
