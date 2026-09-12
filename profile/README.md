@@ -25,7 +25,7 @@
 
 ---
 
-### 📡 Products
+### 📡 Products & Hardwares
 
 #### Products
 
@@ -41,6 +41,9 @@
 **SDI to OMT Encoder** — SDI/HDMI to OMT Encoder  
 - **Description:** SDIやHDMIで入力された映像・音声をOMT(OpenMediaTransport)へエンコードするハードウェア。鋭意開発中。
 
+**[ProductionDeck](https://github.com/MikanseiLaboratory/productiondeck)** — StreamDeck compatible hardware  
+- **Description:** StreamDeckのUSB HIDと互換性があるRaspberry Pi picoファームウェア
+
 #### Softwares
 
 **[vmix-utility](https://github.com/MikanseiLaboratory/vmix-utility/)**  
@@ -55,14 +58,17 @@
 **[aviutl2-omt-output](https://github.com/MikanseiLaboratory/aviutl2-omt-output/)**  
 - **Description:** AviUtl2 OMTライブ出力プラグイン。
 
-**[openfx-omt-plugin](https://github.com/MikanseiLaboratory/openfx-omt-plugin/)**  
-- **Description:** DaVinci Resolve向けOpenFX OMT送出フィルタープラグイン。
-
 **[aviutl2-network-video-output](https://github.com/MikanseiLaboratory/aviutl2-network-video-output/)**  
 - **Description:** AviUtl2 NDIライブ出力プラグイン。
 
+**[openfx-omt-plugin](https://github.com/MikanseiLaboratory/openfx-omt-plugin/)**  
+- **Description:** DaVinci Resolve向けOpenFX OMT送出フィルタープラグイン。
+
 **[openfx-network-video-plugin](https://github.com/MikanseiLaboratory/openfx-network-video-plugin/)**  
 - **Description:** DaVinci Resolve向けOpenFX NDI送出フィルタープラグイン。
+
+**[unity-omt](https://github.com/MikanseiLaboratory/unity-omt)**  
+- **Description:** Unity向けにOMT送受信機能を追加するPackage
 
 #### Libraries
 
